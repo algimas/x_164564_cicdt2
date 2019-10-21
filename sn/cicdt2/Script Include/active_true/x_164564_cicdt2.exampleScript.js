@@ -3,7 +3,7 @@
  * ClassName   : sys_script_include
  * Created On  : 2019-10-17 14:49:28
  * Created By  : admin
- * Updated On  : 2019-10-17 14:49:47
+ * Updated On  : 2019-10-21 14:09:59
  * Updated By  : admin
  * URL         : /sys_script_include.do?sys_id=a25497e9db684c10fa3e9006db9619d0
  */
@@ -22,6 +22,7 @@ exampleScript.prototype = /** @lends x_164564_cicdt2.module:sys_script_include.e
      * @returns {undefined}
      */
     initialize: function() {
+		gs.warn('just a new line of Warning.');
     },
 
     type: 'exampleScript'
