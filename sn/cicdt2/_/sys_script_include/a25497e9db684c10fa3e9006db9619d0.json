@@ -1,0 +1,24 @@
+{
+  "access": "package_private",
+  "active": true,
+  "api_name": "x_164564_cicdt2.exampleScript",
+  "caller_access": null,
+  "client_callable": false,
+  "description": null,
+  "name": "exampleScript",
+  "script": {
+    "____see": "sn/cicdt2/Script Include/active_true/x_164564_cicdt2.exampleScript.js"
+  },
+  "sys_class_name": "sys_script_include",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-10-17 14:49:28",
+  "sys_id": "a25497e9db684c10fa3e9006db9619d0",
+  "sys_mod_count": 1,
+  "sys_name": "exampleScript",
+  "sys_package": "0d935765db684c10fa3e9006db96197e",
+  "sys_policy": "read",
+  "sys_scope": "0d935765db684c10fa3e9006db96197e",
+  "sys_update_name": "sys_script_include_a25497e9db684c10fa3e9006db9619d0",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-10-17 14:49:47"
+}
